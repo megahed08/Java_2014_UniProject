@@ -1,0 +1,2 @@
+This Repository contains the Java code for the first Java project in my bachelor degree,
+the Assignment was to learn new Java features and implement them on an amusement park project.
